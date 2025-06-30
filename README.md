@@ -17,6 +17,12 @@ pip install -r requirements.txt  # install dependencies (e.g., numpy, pandas, ma
 jupyter notebook feature_scaling.ipynb
 ```
 
+## Images
+
+![Scaling before and after](images/image1.png)
+![Scaling of one feature](images/image2.png)
+
+
 ## Preview
 
 ```python
